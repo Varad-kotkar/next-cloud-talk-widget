@@ -13,8 +13,6 @@ Modern remote and hybrid teams struggle with **communication fragmentation** and
 
 Our **Nextcloud Talk Widget/Assistant** transforms how teams manage communications by creating an intelligent, unified dashboard experience that brings Talk conversations, mentions, and meeting insights directly to your Nextcloud homepage.
 
-🎥 Demo Video
-[Watch our 2-minute demo here](https://your-demo-video-link.com)
 
 ✨ MVP Features
 
